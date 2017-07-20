@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "220889771148",
+    "firebase_url": "https://my-awesome-clan.firebaseio.com",
+    "project_id": "my-awesome-clan",
+    "storage_bucket": "my-awesome-clan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220889771148:android:88854003cc506567",
+        "android_client_info": {
+          "package_name": "com.andrewlaurien.socia.GetAClan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220889771148-jh6gs6n628avldg7fat7qahst1is580d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YOE_qembRf6SK6yvdkIQw-GIQGq4Z2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

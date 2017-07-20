@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="com.andrewlaurien.chatApp.fragments.LogInFragment">
+
+    <!--<com.facebook.login.widget.LoginButton xmlns:facebook="http://schemas.android.com/apk/res-auto"-->
+    <!--android:id="@+id/button_facebook_login"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:layout_marginBottom="30dp"-->
+    <!--android:layout_marginTop="30dp"-->
+    <!--android:paddingBottom="15dp"-->
+    <!--android:paddingTop="15dp"-->
+    <!--facebook:com_facebook_login_text="Login with Facebook"-->
+    <!--facebook:com_facebook_logout_text="Logout" />-->
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/button_facebook_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:padding="15dp" />
+
+</FrameLayout>
